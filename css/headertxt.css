@@ -208,6 +208,8 @@
 
 .team-member, .team-member .team-img {
     position: relative;
+    border-radius: 50%;
+    border: 1px solid #000;
 }
 .team-member {
     overflow: hidden;
